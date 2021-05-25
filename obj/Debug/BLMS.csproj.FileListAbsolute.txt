@@ -1,0 +1,79 @@
+D:\VisualStudioC#\BLMS\bin\Debug\Библи номын сангийн програм.exe.config
+D:\VisualStudioC#\BLMS\bin\Debug\Библи номын сангийн програм.exe.manifest
+D:\VisualStudioC#\BLMS\bin\Debug\Библи номын сангийн програм.application
+D:\VisualStudioC#\BLMS\bin\Debug\Библи номын сангийн програм.exe
+D:\VisualStudioC#\BLMS\bin\Debug\Библи номын сангийн програм.pdb
+D:\VisualStudioC#\BLMS\bin\Debug\MetroFramework.Design.dll
+D:\VisualStudioC#\BLMS\bin\Debug\MetroFramework.dll
+D:\VisualStudioC#\BLMS\bin\Debug\MetroFramework.Fonts.dll
+D:\VisualStudioC#\BLMS\bin\Debug\MySql.Data.exe
+D:\VisualStudioC#\BLMS\bin\Debug\QRCoder.dll
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.Angi.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.AuthorForm.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.BookAdd.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.BookEdit.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.BookFlow.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.BookManager.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.BookRent.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.BookReturn.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.Burtgel.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.CbasicForm.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.ChuulganForm.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.CompanyForm.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.CsubForm.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.LangForm.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.Login.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.Main.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.Properties.Resources.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.SplashScreen.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.UserAdd.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.UserEdit.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.UserManager.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.UserType.resources
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.csproj.GenerateResource.cache
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.csproj.CoreCompileInputs.cache
+D:\VisualStudioC#\BLMS\obj\Debug\Библи номын сангийн програм.TrustInfo.xml
+D:\VisualStudioC#\BLMS\obj\Debug\Библи номын сангийн програм.exe.manifest
+D:\VisualStudioC#\BLMS\obj\Debug\Библи номын сангийн програм.application
+D:\VisualStudioC#\BLMS\obj\Debug\BLMS.csproj.CopyComplete
+D:\VisualStudioC#\BLMS\obj\Debug\Библи номын сангийн програм.exe
+D:\VisualStudioC#\BLMS\obj\Debug\Библи номын сангийн програм.pdb
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\bin\Debug\Библи номын сангийн програм.exe.config
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\Библи номын сангийн програм.exe
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\Библи номын сангийн програм.pdb
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\bin\Debug\Библи номын сангийн програм.exe.manifest
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\bin\Debug\Библи номын сангийн програм.application
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\bin\Debug\Библи номын сангийн програм.exe
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\bin\Debug\Библи номын сангийн програм.pdb
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\bin\Debug\MetroFramework.Design.dll
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\bin\Debug\MetroFramework.dll
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\bin\Debug\MySql.Data.exe
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\bin\Debug\QRCoder.dll
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.csprojResolveAssemblyReference.cache
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.Angi.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.AuthorForm.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.BookAdd.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.BookEdit.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.BookFlow.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.BookManager.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.BookRent.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.BookReturn.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.Burtgel.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.CbasicForm.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.ChuulganForm.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.CompanyForm.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.CsubForm.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.LangForm.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.Login.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.Main.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.Properties.Resources.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.SplashScreen.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.UserAdd.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.UserEdit.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.UserManager.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.UserType.resources
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\BLMS.csproj.GenerateResource.Cache
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\Библи номын сангийн програм.TrustInfo.xml
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\Библи номын сангийн програм.exe.manifest
+C:\Users\huree cs\Documents\Visual Studio 2013\Projects\BLMS\obj\Debug\Библи номын сангийн програм.application
